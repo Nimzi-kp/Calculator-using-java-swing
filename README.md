@@ -12,7 +12,7 @@ The user interface is built using Swing, providing a clean and intuitive experie
 ### How to Use
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE (e.g., IntelliJ, Eclipse).
-3. Run the `Calculator` class to launch the application.
+3. Run the `Calculator/Src/Calculator.java` file to launch the application.
 
 ### Future Enhancements
 - **Advanced Operations**: Implement functions like square root, percentage, and exponentiation.
